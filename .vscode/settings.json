@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "rresta.h": "c",
+        "stdio.h": "c"
+    }
+}
